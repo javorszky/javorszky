@@ -6,4 +6,7 @@ On the infrastructure side I'm currently on my way to get the AWS Certified Clou
 
 Diversity and inclusion are also very important to me, you will find me advocating for those values.
 
-You can find me on twitter at [@javorszky](https://twitter.com/javorszky) and read my musings on my blog on [my blog](https://javorszky.co.uk).
+You can find me around the web at these places:
+* on linkedin [under my name](https://www.linkedin.com/in/javorszky/)
+* on twitter at [@javorszky](https://twitter.com/javorszky)
+* read my musings on my blog on [my blog](https://javorszky.co.uk)
